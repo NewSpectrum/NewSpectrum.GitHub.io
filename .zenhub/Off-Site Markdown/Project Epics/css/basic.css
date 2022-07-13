@@ -1,0 +1,13 @@
+@charset "utf-8";
+
+.pageBg01 {
+    background-color: hsla(223,31%,19%,1.00);
+    background-size: cover;
+}
+
+/* Header */
+.headSect01 {
+    background-color: hsla(223,31%,25%,1.00);
+    background-position: top, center;
+    
+}
