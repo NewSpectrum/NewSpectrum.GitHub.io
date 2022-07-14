@@ -3,7 +3,7 @@
 <!-- Yes, that ⬆️ ID says "MarkdownCSS" 
 	(Markdown knows how to party too, just not with corporate site hosts) -->
 
-# <small><small>Welcome to</small></small><br >New Spectrum Academy
+# New Spectrum Academy<br ><small><small>Welcome to Our GitHub Stuff</small></small>
 
 <small><i>suspensful music continues to grow louder from the bacgkground</i></small>
 
@@ -12,4 +12,4 @@ Your call is very important to us. Please continue holding until the next availa
 :)
 
 
-
+<!-- # <small><small>Welcome to</small></small><br >New Spectrum Academy -->
